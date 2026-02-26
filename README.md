@@ -1,0 +1,1 @@
+This repository serves as a centralized management point for custom AdGuard DNS filtering lists. It contains two primary configuration files — AllowedList.txt and BlockedList.txt — used to define domain-level permit and deny rules for network-wide DNS filtering and ad-blocking.
