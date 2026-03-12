@@ -1,4 +1,6 @@
+#Allow List
 @@||5h1pm3n7.com^
+@@||canishower.com^
 # BudapestGO
 @@||bkk.hu^
 @@||bkkinfo.hu^
@@ -11,7 +13,6 @@
 @@||simplepartner.hu^
 @@||otpbank.hu^
 # End BudapestGO
-@@||adguardaccount.com^
 @@||humongous.co.il^
 @@||cloudinary.com^
 @@||typotheque.com^
@@ -22,15 +23,18 @@
 @@||grammarly.io^
 @@||betili-shop.com^
 @@||mobileapinew.365scores.com^
-@@||AdGuard-dns.com^
+@@||adguardaccount.com^
+@@||adguard-dns.com^
 @@||adguard.org^
 @@||adguardcdn.com^
 @@||adguardaccount.com^
+#Brawlstars
 @@||supercell.com^
 @@||supercell.net^
 @@||supr.cl^
 @@||brawlstars.com^
 @@||brawlstarsgame.com^
+#End Brawlstars
 @@||1password.com^
 @@||1passwordservices.com^
 @@||telemetry.1passwordservices.com^
@@ -87,10 +91,5 @@
 @@||wyzecam.com^
 @@||youtubei.googleapis.com^
 @@||zpath.net^
-@@||adguard-dns.com^
 @@||kerenagam.co.il^
-# Emergency sites
-@@||tzevaadom.co.il^
-@@||oref.org.il^
-@@||pool.ntp.org^
-@@||time.apple.com^
+#End Allow List
