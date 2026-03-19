@@ -15,7 +15,7 @@ I take the security and integrity of these blocklists seriously. If you discover
 
 ### Disclosure Process
 1. **Do not open a public Issue.** To protect users, please report the vulnerability privately.
-2. **Email the report:** Please send a detailed description of the vulnerability to **omerdvd@gmail.com**.
+2. **Email the report:** Please send a detailed description of the vulnerability to **cold.gear1358@fastmail.com**.
 3. **Details to include:**
    * A description of the issue.
    * Steps to reproduce the vulnerability (Proof of Concept).
