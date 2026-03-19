@@ -1,8 +1,10 @@
 <div align="center">
 
-![ManagedBlockList Repository Banner](/images/ManagedBlockList.png)
+<img src="/images/ManagedBlockList.png" width="80%">
 
- ![Size](https://img.shields.io/github/repo-size/omerdvd/ManagedBlockList) ![License](https://img.shields.io/github/license/omerdvd/ManagedBlockList) ![Stars](https://img.shields.io/github/stars/omerdvd/ManagedBlockList?style=social) ![Issues](https://img.shields.io/github/issues/omerdvd/ManagedBlockList)
+<br>
+
+![Size](https://img.shields.io/github/repo-size/omerdvd/ManagedBlockList) ![License](https://img.shields.io/github/license/omerdvd/ManagedBlockList) ![Stars](https://img.shields.io/github/stars/omerdvd/ManagedBlockList?style=social) ![Issues](https://img.shields.io/github/issues/omerdvd/ManagedBlockList)
 
 </div>
 
