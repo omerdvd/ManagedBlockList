@@ -1,4 +1,4 @@
-![ManagedBlockList Repository Banner](doc/images/ManagedBlockList.png)
+![ManagedBlockList Repository Banner](main/ManagedBlockList.png)
 
 ![Size](https://img.shields.io/github/repo-size/omerdvd/ManagedBlockList) ![License](https://img.shields.io/github/license/omerdvd/ManagedBlockList) ![Stars](https://img.shields.io/github/stars/omerdvd/ManagedBlockList?style=social) ![Issues](https://img.shields.io/github/issues/omerdvd/ManagedBlockList)
 
