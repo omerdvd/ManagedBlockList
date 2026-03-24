@@ -2012,4 +2012,8 @@ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
 "22a2c9df-c9ce-478c-840a-159ba0e82da4",3020,"Payload delivery","sha256","57fd32c39c64d9f58846fa91b19c3086b66b0e733ebbc30f917a1f5063389691","Malware payload",1,1695366089,"sha256","APT,exe,OilRig,Solar","","",""
 "8fbc2776-0e23-4cce-8e12-c942838678af",3020,"Payload delivery","sha1","1de4810a10fa2d73cc589ca403a4390b02c6da5e","Malware payload",1,1695366089,"sha1","APT,exe,OilRig,Solar","","",""
 "7e6003db-c80b-4417-bc3c-7d4d252ee023",3020,"Payload delivery","sha3-384","79a3b8f2a3a437570fc32723702e06baf830b3854c5d787a8691215059012e9b4bcef53cf299eacdc1cda31170ed8e39","Malware payload",1,1695366089,"sha3-384","APT,exe,OilRig,Solar","","",""
+"4905ff1b-6992-4271-90bd-920f4ba22ed2",3093,"Payload delivery","md5","937d93cda7511ebc0fb4287d6904ae65","Malware payload",1,1721913496,"md5","APT34,exe,OilRig,RedCap","","",""
+"37f470f1-4edc-49a6-9980-a5774fd686e0",3093,"Payload delivery","sha256","827366355c6429a7fe12d111e240c5bcec3ed61e717fb84ea8b771672dd1f88e","Malware payload",1,1721913496,"sha256","APT34,exe,OilRig,RedCap","","",""
+"caa30a06-9fdc-4c1d-89a9-7579877ea43c",3093,"Payload delivery","sha1","0a94df6afb2ee38b8be97e8c8363ca49fb4d59b8","Malware payload",1,1721913496,"sha1","APT34,exe,OilRig,RedCap","","",""
+"f450c7de-d35e-4ee5-a57c-c217a8d62d48",3093,"Payload delivery","sha3-384","98bfc02e3dd3df7a3ac44224a871bb9801663918eca7f9a596f296cb6d457021a1480899fb759a45b65ee4d737fb7e71","Malware payload",1,1721913496,"sha3-384","APT34,exe,OilRig,RedCap","","",""
 
