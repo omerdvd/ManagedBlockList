@@ -1996,4 +1996,8 @@ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
 "ca872052-1d0c-4621-8732-5baa046752c8",2663,"Payload delivery","sha256","b607d60d680f1f1335902a666df843ac9cc58299af6731d2ad1a5ea617cf4a99","Malware payload",1,1741797310,"sha256","89-46-233-239,95-156-204-168,APT34,exe","","",""
 "9f818251-8785-4072-ad93-ae47454a4f00",2663,"Payload delivery","sha1","6bb4414d717a290b80cca32655b7198f0c832add","Malware payload",1,1741797310,"sha1","89-46-233-239,95-156-204-168,APT34,exe","","",""
 "e96bf959-c46b-4fe8-bd4a-715a4b395e35",2663,"Payload delivery","sha3-384","aa1483dce25aabed1d0dc995fb0a2e6ec98e0db04986a80c2c0f9c044ad1fc59a7ea13c48ad951ed87e3edf3d0837c6c","Malware payload",1,1741797310,"sha3-384","89-46-233-239,95-156-204-168,APT34,exe","","",""
+"52643859-fdf9-4086-94af-9c729bb47a08",2835,"Payload delivery","md5","ab25014c3d6f77ec5880c8f9728be968","Malware payload",1,1617486047,"md5","APT,APT34,Karkoff","","",""
+"2a086b02-5bd2-4b55-bb79-d316430a6c60",2835,"Payload delivery","sha256","1f47770cc42ac8805060004f203a5f537b7473a36ff41eabb746900b2fa24cc8","Malware payload",1,1617486047,"sha256","APT,APT34,Karkoff","","",""
+"f30b3449-d902-424a-b3d5-746c5846645f",2835,"Payload delivery","sha1","0e94daa4f2f168418cf352b76ef28d0376c76484","Malware payload",1,1617486047,"sha1","APT,APT34,Karkoff","","",""
+"8d6b344d-5dce-4a0a-82ff-ff82e19ec0dd",2835,"Payload delivery","sha3-384","a945fcbe11812ed7c7047a6e58122826df35d50b8621cedca91ca0d8da76a92a7ea386c5392cb055f4bb16e6824a25dd","Malware payload",1,1617486047,"sha3-384","APT,APT34,Karkoff","","",""
 
