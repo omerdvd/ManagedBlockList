@@ -6,7 +6,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Replace with your actual MISP API key
 misp_url = 'https://192.168.0.60'
-misp_key = 'sxGv6SX011DtlyDG6FAqgfdQik2i89jBAFo3SYRc'
+
 
 # Initialize PyMISP
 misp = PyMISP(misp_url, misp_key, False)
