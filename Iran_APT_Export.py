@@ -8,7 +8,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 misp_url = 'https://192.168.0.60'
 
-# SECURE CHANGE 1: Fetch the API key from an environment variable
+# Fetch the API key from an environment variable
 misp_key = os.environ.get('MISP_API_KEY')
 
 if not misp_key:
@@ -28,10 +28,9 @@ iranian_apts = [
 
 print("Searching MISP for Iranian APT indicators using the search API...")
 
-# In newer PyMISP versions, 'search' replaces 'restSearch'
 response = misp.search(controller='attributes', return_format='csv', tags=iranian_apts)
 
-# SECURE CHANGE 2: Ensure we write the CSV to the correct Git directory
+# Ensure we write the CSV to the correct Git directory
 os.chdir('/opt/misp-digest-repo/')
 
 with open('iran_iocs.csv', 'w') as f:
