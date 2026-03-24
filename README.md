@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/images/ManagedBlockList.png" width="80%">
+<img src="/images/ManagedBlockListCyborg.png" width="80%">
 
 <br>
 
