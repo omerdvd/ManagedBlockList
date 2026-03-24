@@ -1,12 +1,19 @@
+import os
+import subprocess
 import urllib3
 from pymisp import PyMISP
 
 # Suppress the insecure request warnings for local IP
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# Replace with your actual MISP API key
 misp_url = 'https://192.168.0.60'
-misp_key = 'sxGv6SX011DtlyDG6FAqgfdQik2i89jBAFo3SYRc'
+
+# SECURE CHANGE 1: Fetch the API key from an environment variable
+misp_key = os.environ.get('MISP_API_KEY')
+
+if not misp_key:
+    print("Error: MISP_API_KEY environment variable is not set.")
+    exit(1)
 
 # Initialize PyMISP
 misp = PyMISP(misp_url, misp_key, False)
@@ -22,11 +29,17 @@ iranian_apts = [
 print("Searching MISP for Iranian APT indicators using the search API...")
 
 # In newer PyMISP versions, 'search' replaces 'restSearch'
-# We specify controller='attributes' to get the individual IOCs
 response = misp.search(controller='attributes', return_format='csv', tags=iranian_apts)
 
-# The response from search() is often a string when CSV is requested
+# SECURE CHANGE 2: Ensure we write the CSV to the correct Git directory
+os.chdir('/opt/misp-digest-repo/')
+
 with open('iran_iocs.csv', 'w') as f:
     f.write(str(response))
 
-print("Export complete! Check the iran_iocs.csv file in your directory.")
+print("Export complete! Check the iran_iocs.csv file.")
+
+print("Pushing updates to GitHub via SSH...")
+subprocess.run(["git", "add", "iran_iocs.csv"])
+subprocess.run(["git", "commit", "-m", "Auto-update Iranian APT IOCs"])
+subprocess.run(["git", "push", "origin", "main"])
