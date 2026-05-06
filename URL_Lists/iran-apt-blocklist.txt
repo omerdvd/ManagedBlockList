@@ -1,6 +1,6 @@
 # Iran APT IOC Blocklist
-# Generated : 2026-05-06 09:47 UTC
-# Domains   : 7697
+# Generated : 2026-05-06 16:34 UTC
+# Domains   : 7725
 # Sources   : AlienVault OTX
 # Groups    : APT33 (Elfin) · APT34 (OilRig) · APT35 (Charming Kitten)
 #             APT39 · MuddyWater · TA453 · Cobalt Gypsy
@@ -3841,6 +3841,7 @@
 ||briannova.or.id^
 ||britishnews.org^
 ||britxec.com^
+||brnettlix.com^
 ||broadcast-news.info^
 ||broadcastbritishnews.com^
 ||broadcastnews.ddns.net^
@@ -3849,6 +3850,7 @@
 ||bronevik.space^
 ||brookings-edu.in^
 ||browny.homes^
+||brttfrixx.com^
 ||bs.hw666.ml^
 ||bsfc.cf^
 ||bst.nextgen1c.click^
@@ -4350,6 +4352,16 @@
 ||drpbxlogin.com^
 ||drpbxlogin.net^
 ||drum.ninerail.com^
+||dubai-1.vaermb.com^
+||dubai-10.vaermb.com^
+||dubai-2.vaermb.com^
+||dubai-3.vaermb.com^
+||dubai-4.vaermb.com^
+||dubai-5.vaermb.com^
+||dubai-6.vaermb.com^
+||dubai-7.vaermb.com^
+||dubai-8.vaermb.com^
+||dubai-9.vaermb.com^
 ||dubefaesio.live^
 ||ducemouqoi.info^
 ||dudalyudii.live^
@@ -4406,6 +4418,7 @@
 ||email-checker.xyz^
 ||email-deiivery.info^
 ||email-delivery.info^
+||email.taxoman.gov.om^
 ||embraer.co^
 ||emiartas.com^
 ||emiratescareers.org^
@@ -4824,6 +4837,7 @@
 ||id-bayan.com^
 ||idc-team.net^
 ||ideabank.credit^
+||identificara.com^
 ||identifier-activities.info^
 ||identifier-activities.online^
 ||identifier-services-sessions.info^
@@ -5271,6 +5285,7 @@
 ||mail.miicrosoft.com^
 ||mail.newstarmachinery.com^
 ||mail.orginal-links.com^
+||mail.rfo.gov.om^
 ||mail.techniservinc.com^
 ||mail.thadasteel.com^
 ||mail.yahoo.com-servicecustomer.name^
@@ -5346,6 +5361,7 @@
 ||melbourneskipbinhire.net.au^
 ||menoninternational.com^
 ||mensome.guide-pl.site^
+||mersaltest.mjla.gov.om^
 ||message-serviceprovider.info^
 ||messageservice.bid^
 ||metamaisk.ink^
@@ -5378,6 +5394,7 @@
 ||mirrorame.com^
 ||miss.outletalertsdaily.com^
 ||mixbit.xyz^
+||mjla.gov.om^
 ||mkzdc-fedex.com^
 ||mlfrb-fedex.com^
 ||mmmma-fedex.com^
@@ -5478,6 +5495,8 @@
 ||mydrives.documents-supportsharing.bid^
 ||myemails.com-recoverysuperuser.name^
 ||myhuaweiclouds.com^
+||myjitsi.exceptionnotfound.ir^
+||myjitsi.mrnajafipour.ir^
 ||myjvf-fedex.com^
 ||myleftheart.com^
 ||mymail.com-recoveryidentifiers.bid^
@@ -5918,6 +5937,7 @@
 ||presspulsedaily.buzz^
 ||preview-control-support.club^
 ||preview.dom-ua.online^
+||price.exceptionnotfound.ir^
 ||primage.com.br^
 ||privacy-facebook.com^
 ||privacy-gmail.com^
@@ -6026,6 +6046,7 @@
 ||rbcvisas.com^
 ||rdppath.com^
 ||realmobiledealers.com^
+||realprimefix.com^
 ||recognized-activity.info^
 ||recombd.com^
 ||recover-customers-service.info^
@@ -6050,6 +6071,7 @@
 ||regcnlab.com^
 ||register-multiplay.ml^
 ||registration-control.accounts-manager.info^
+||regorixa.com^
 ||reit.live^
 ||reload-cover-page.live^
 ||reload-page-cover.site^
@@ -6125,6 +6147,7 @@
 ||s3tha-fedex.com^
 ||s3thf-fedex.com^
 ||s3thg-fedex.com^
+||s5.sideliner.ir^
 ||sa.waonlineprogram.top^
 ||sabre-airlinesolutions.com^
 ||sabre-css.com^
@@ -6133,6 +6156,7 @@
 ||sadostad.ir^
 ||safe-lord.online^
 ||saharapcc.ddns.net^
+||sailms.gov.om^
 ||sailortour.com^
 ||saintyum.com^
 ||sajisaidea.info^
@@ -6283,6 +6307,7 @@
 ||shop-sellwear.info^
 ||shop.account-dropbox.net^
 ||shop.bot-uatangiers.space^
+||shop.exceptionnotfound.ir^
 ||shop.namangale-ua.space^
 ||shopcrazybunny.com^
 ||shortingurl.top^
@@ -6411,6 +6436,7 @@
 ||sua-loja-oficial.online^
 ||sua-td-diasure.online^
 ||suagluzabet-hoaky.com^
+||suanefllix.com^
 ||suaongchua-ngoctrinh.online^
 ||sumiennapomoc.click^
 ||suncocity.com^
@@ -6575,6 +6601,7 @@
 ||toms.co.th^
 ||tonometr-ua.uashop.space^
 ||toolfare.online^
+||tools.exceptionnotfound.ir^
 ||top-net-ua.space^
 ||top.1win-ua.online^
 ||topnewsflash.7113578.com^
@@ -6770,6 +6797,7 @@
 ||v0ijg-fedex.com^
 ||v21c0-fedex.com^
 ||va.zlpolska.xyz^
+||vaermb.com^
 ||valdia.quatiappcn.pw^
 ||validationpaypal.com^
 ||valtorynexon.eu^
