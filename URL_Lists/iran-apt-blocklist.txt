@@ -1,6 +1,6 @@
 # Iran APT IOC Blocklist
-# Generated : 2026-07-22 04:05 UTC
-# Domains   : 7675
+# Generated : 2026-07-22 14:19 UTC
+# Domains   : 7684
 # Sources   : AlienVault OTX
 # Groups    : APT33 (Elfin) · APT34 (OilRig) · APT35 (Charming Kitten)
 #             APT39 · MuddyWater · TA453 · Cobalt Gypsy
@@ -2577,6 +2577,7 @@
 ||access.ing.de.kspi.uz^
 ||accessdapps.web.app^
 ||accessdeck.com^
+||accesslinkssl.com^
 ||accesso-sella-it.firebaseapp.com^
 ||accesso-sella-it.web.app^
 ||accesso.213-142-157-162.cprapid.com^
@@ -3976,6 +3977,7 @@
 ||client.client.asus-support.net^
 ||client.googleapis.online^
 ||clinsystem.bot-uatangiers.space^
+||clipeditskill.com^
 ||clone30p.shop^
 ||cloud-security.ggpht.ml^
 ||cloud-storage-v2.my.id^
@@ -3984,6 +3986,7 @@
 ||cloud.jumpshare.vip^
 ||cloud.venturelabo.co^
 ||cloudaimetamask.com^
+||cloudlanecdn.com^
 ||cloudshare.jumpshare.vip^
 ||cmailco.xyz^
 ||cms.bot-uatangiers.space^
@@ -4160,6 +4163,7 @@
 ||cwgit.chickenkiller.com^
 ||cyperior-store.site^
 ||czerwonydomkk.site^
+||d.53466d4c67515a.0.p.cloudlanecdn.com^
 ||d36c259d9ddee6a5075920479f3c30df.bihcreuomegscmedfuaggprjrjomosga.cf^
 ||dailykini.com^
 ||dailystudy.org^
@@ -4666,6 +4670,7 @@
 ||google-verification.com^
 ||google-verify.com^
 ||google-verify.net^
+||google.com.ayalon-print.co.il^
 ||google.drive-accounts.com^
 ||google.mail.com-servicecustomer.bid^
 ||google.mail.mail.google.comservicecustomer.bid^
@@ -5600,6 +5605,7 @@
 ||ns1.applicationframehost.in^
 ||ns1.beget.pro^
 ||ns1.check-yahoo.com^
+||ns1.cloudlanecdn.com^
 ||ns1.com-service.net^
 ||ns1.csof.net^
 ||ns1.dnsrecordsolver.tk^
@@ -5620,6 +5626,7 @@
 ||ns2.applicationframehost.in^
 ||ns2.beget.pro^
 ||ns2.check-yahoo.com^
+||ns2.cloudlanecdn.com^
 ||ns2.dns-update.club^
 ||ns2.dnsrecordsolver.tk^
 ||ns2.drippingstrawberry.com^
@@ -5634,9 +5641,11 @@
 ||ns2.themyway-design.net^
 ||ns2.windows-dns-resolver.org^
 ||ns2.winodwsupdates.me^
+||ns3.cloudlanecdn.com^
 ||ns3.drippingstrawberry.com^
 ||ns3.lowcost-dns.com^
 ||ns3.time4update.com^
+||ns4.cloudlanecdn.com^
 ||ns4.drippingstrawberry.com^
 ||ns5.drippingstrawberry.com^
 ||ns6.drippingstrawberry.com^
