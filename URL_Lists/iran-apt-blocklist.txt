@@ -1,6 +1,6 @@
 # Iran APT IOC Blocklist
-# Generated : 2026-07-23 16:10 UTC
-# Domains   : 7684
+# Generated : 2026-07-24 04:21 UTC
+# Domains   : 7672
 # Sources   : AlienVault OTX
 # Groups    : APT33 (Elfin) · APT34 (OilRig) · APT35 (Charming Kitten)
 #             APT39 · MuddyWater · TA453 · Cobalt Gypsy
@@ -3545,7 +3545,6 @@
 ||apps.greenway-ua.online^
 ||apps.namangale-ua.space^
 ||apsua-library.online^
-||aptmirror.eu^
 ||aqua-deluxe.online^
 ||aqua-parks.space^
 ||aqua-shop.online^
@@ -5359,7 +5358,6 @@
 ||microsoft-kernels-pdate.net^
 ||microsoft-publisher.com^
 ||microsoft-update.bid^
-||microsoft-updateserver.cf^
 ||microsoft-upgrade.mobi^
 ||microsoft-utility.com^
 ||microsoftinternetsafety.net^
@@ -5430,7 +5428,6 @@
 ||msservices.https443.org^
 ||msubrahm.com^
 ||msupdata.com^
-||msupdate.us^
 ||mtbanksecured.com^
 ||mu-dante.com^
 ||mudahamal.com^
@@ -5447,8 +5444,6 @@
 ||mx1.group-google.com^
 ||mx2.drippingstrawberry.com^
 ||my-healthequity.com^
-||my-ip.io^
-||my-logford.ml^
 ||my-mailcoil.ml^
 ||my-scribdinc.online^
 ||my.en-gb.home-access.online^
@@ -5543,7 +5538,6 @@
 ||new.totalsecurityservices.com.my^
 ||new.totalsecurityservices.com.my.portapottyrentalhub.com^
 ||new.trikotaz-ua.online^
-||newdesk.top^
 ||news-angels.space^
 ||news-caxxar.site^
 ||news-caxxar.store^
@@ -5712,7 +5706,6 @@
 ||one.gainmentorrs.online^
 ||oneappleclub.com^
 ||onedrive-signin.com^
-||onedriver-srv.ml^
 ||oneidas.sbs^
 ||oneodio.store^
 ||onetlify.carrd.co^
@@ -6223,7 +6216,6 @@
 ||service-explorer.com^
 ||service-issues.site^
 ||service-logins.net^
-||service-management.tk^
 ||service-norton.com^
 ||service-recovery-session.info^
 ||service-search.info^
@@ -6449,7 +6441,6 @@
 ||swiftsureelectric.com^
 ||sxfcx-fedex.com^
 ||syaircambodia.live^
-||symantecserver.co^
 ||syn.broadcaster.rocks^
 ||syndicloud.net^
 ||system-services.site^
@@ -6475,7 +6466,6 @@
 ||tcp.shorturlbot.club^
 ||tcp443.mssync.one^
 ||tcp443.msupdate.us^
-||tcp443.org^
 ||tcp443.tcp443.org^
 ||te1egram.net^
 ||team-speak.cf^
@@ -6708,7 +6698,6 @@
 ||update-symantec.com^
 ||update-system-driversonline.bid^
 ||update-verifymydevice.com^
-||update.us^
 ||updatechase01.co^
 ||updategyan.com^
 ||updateorg.com^
@@ -6974,7 +6963,6 @@
 ||wing-slot.sbs^
 ||winnieswondersaviary.com^
 ||winodwsupdates.me^
-||winstore.us^
 ||winter-sale-ua.online^
 ||wintered.sbs^
 ||wirelessbill.online^
